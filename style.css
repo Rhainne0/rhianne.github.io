@@ -128,11 +128,11 @@ header a:hover{
 
 #boxes .box a {
 	background-color: #ffe600;
-    left: 0;
-    width: 80%;
-    padding: 5px 20px;
-    border-radius: 20px;
-    margin: 5px;
+    	left: 0;
+   	 width: 80%;
+   	 padding: 5px 20px;
+   	 border-radius: 20px;
+   	 margin: 5px;
 }
 
 footer{
